@@ -1,2 +1,0 @@
-﻿User-agent: *
-Sitemap: http://anishapo-nutrition.itsinsta.site/sitemap.xml
